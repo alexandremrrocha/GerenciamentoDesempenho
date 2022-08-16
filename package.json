@@ -4,12 +4,16 @@
   "description": "aula de node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server.js"
   },
   "keywords": [
     "node",
     "server"
   ],
   "author": "AlexandreRocha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-os-utils": "^1.3.7",
+    "nodemon": "^2.0.19"
+  }
 }
