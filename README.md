@@ -30,7 +30,3 @@ Outra melhoria desenvolvida é que ele mostra o modelo da CPU da maquina
 ```bash
   npm run dev
 ```
-
-## Ideias futuras
-
-Fazer um front utilizando o Angular
