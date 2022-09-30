@@ -9,9 +9,7 @@ Um projeto de gerenciamento de desempenho da maquina local funciona em diversos 
 
 ## Melhorias
 
-Foi desenvolvido uma melhoria onde ele não somente gerencia a RAM, mas também o uso do processador
-
-Outra melhoria desenvolvida é que ele mostra o modelo da CPU da maquina
+Foi desenvolvido uma melhoria onde ele não somente gerencia a RAM, mas também o uso do processador. Além disso outra melhoria desenvolvida é que ele mostra o modelo da CPU da maquina!
 
 ## Rodando localmente
 
