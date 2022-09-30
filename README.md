@@ -1,6 +1,6 @@
 # Gerenciamento de Desempenho
 
-Um projeto de gerenciamento de desempenho da maquina local, utilizando Node.js
+Um projeto de gerenciamento de desempenho da maquina local funciona em diversos SOs, utilizando Node.js
 
 ## Aprendizados
 
